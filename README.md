@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nvmcer
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning C++,Java
-- 💞️ I’m looking to collaborate on UE4,Spring
+- 🌱 I’m currently learning C++,C#,Java,JS,TS
+- 💞️ I’m looking to collaborate on UE4,Unity,React
 - 📫 How to reach me nvmcer@outlook.com
 
 <!---
