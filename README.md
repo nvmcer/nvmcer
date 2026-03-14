@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nvmcer
 - 👀 I’m interested in Games and Anime
 - 🌱 I’m currently learning CloudNative,MicroService,Serverless
-- 💞️ I’m looking to collaborate on AWS
+- 💞️ I’m looking to collaborate on Cloud Tech
 - 📫 How to reach me nvmcer@outlook.com
 
 <!---
